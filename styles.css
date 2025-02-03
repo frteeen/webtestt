@@ -1,6 +1,14 @@
+* {
+    font-family: 'Lato';
+    background-color: #D5C5C8 ;
+}
+
+
 div {
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 500%;
+    color: #E7ECEF ;
+    margin-top: 20%;
 }
