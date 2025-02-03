@@ -5,10 +5,10 @@
 
 
 div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
     font-size: 500%;
     color: #E7ECEF ;
-    margin-top: 20%;
 }
